@@ -1,1 +1,4 @@
 # ARAIProj
+
+
+Micro-mobility transportation systems for individual usage have grown in popularity recently, with the "Hoverboard" device being the most well-liked. These systems are flexible, small, and efficient for personal transportation in a range of settings. With the use of a gyroscope, an Arduino UNO, an Arduino Pro-Mini, a lithium battery, and a BLDC motor, this project will construct a self-balancing micro-mobility electric vehicle in the shape of a rectangular grid. Two folding pads make up this rectangular grid, which when opened forms a semicircle. The system also includes a seating configuration. With the sensor imprinted on gloves, the operator may control the system's speed and direction by making hand gestures. The goal of this project is to create and manage a straightforward, inexpensive self-transportation system.
